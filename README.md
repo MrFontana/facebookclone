@@ -1,2 +1,2 @@
 # facebookclone
-quick HTML, CSS clone of facebook
+HTML, CSS clone of facebook
